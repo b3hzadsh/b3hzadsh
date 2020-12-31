@@ -2,7 +2,7 @@
 
 
 
-<!-- Here are some ideas to get you started: !--/>
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning flutter
@@ -10,6 +10,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me:[Email] (b3hzadsh@gmail.com)
-<!-- - 😄 Pronouns: ... !--/>
-<!-- - ⚡ Fun fact: ... !--/>
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
