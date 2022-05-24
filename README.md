@@ -4,9 +4,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Uni project
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about anything
+- 🔭 I’m currently working at Yar
+- 🌱 I’m currently learning python
+- 💬 Ask me about flutter 
 - 📫 How to reach me: [Email](mailto:b3hzadsh@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
