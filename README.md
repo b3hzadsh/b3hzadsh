@@ -4,17 +4,14 @@
 
 ---
 
-## 👨💻 About Me 
-
-<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Data Science GIF">
-
-🎓 **From Apps to Algorithms**:
-- 📱 Published **5+ Flutter apps** on [Cafe Bazar](https://cafebazaar.ir/developer/716260184115) with 10k+ downloads
-- 🏆 Developed university final project using **Flutter & Firebase** (Healthcare Management System)
-- 🐍 Transitioned to Python post-graduation → Now building **REST APIs** and **ML models**
-- 🔍 Currently diving deep into **Deep Learning** while pursuing my Master's in Data Science
-
----
+📅 **My Journey**:
+- 📱 Published **3+ Flutter apps** on Cafe Bazar with 10k+ downloads during undergrad years ✨
+- 🏆 Developed university final project using **Flutter & Firebase** 🎓
+- 🐍 Fell in love with Python after graduation 🐍❤️
+- 🎓 Currently pursuing **Data Science** degree while: 
+  - � Building APIs with **FastAPI** 
+  - 🕸 Learning **Django** framework
+  - 📈 Exploring machine learning models
 
 ## 🛠 Tech Stack
 
@@ -27,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### 📊 Data Science & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -39,55 +36,34 @@
 
 ## 📚 Academic Journey
 - **M.Sc. Data Science**  
-  🏛 Farhangian University | 📅 2023–Present  
-  ▪️ Focus: Neural Networks, Big Data Analytics  
-  ▪️ Thesis: *"Optimizing Healthcare Models Using Deep Learning"*
+  🏛 Farhang University | 📅 2023–Present  
+  ▪️ Focus: Natural language processing, Deep learning 
+  ▪️ Thesis: *Optimizing BERT Language Models Using Advanced Deep Learning Techniques*
 
 - **B.Sc. Computer Engineering**  
   🎓 Semnan University | 📅 2017–2022  
-  ▪️ GPA: 3.8/4.0 | Top 10% of Class  
-  ▪️ Final Project: [Hospital Management System](https://github.com/your-repo)
+  ▪️ GPA: 3.7/4.0 | Top 10% of Class  
+  ▪️ Final Project: Learning Management System
 
 ---
 
-## 🚀 Highlight Projects
-
-### 📱 Mobile Development
-- **[Cafe Bazar Portfolio](https://cafebazaar.ir/developer/716260184115)**  
-  Published 5+ production apps with Firebase backend (100+ daily active users)
-
-### 🤖 Machine Learning
-- **Custom Model Development**  
-  🔭 Currently curating dataset for computer vision model (TensorFlow/PyTorch)  
-  🛠 Tools: OpenCV, Label Studio, Pandas
-
-### 🌐 Web Development
-- **FastAPI Microservices**  
-  Built scalable API for real-time analytics (JWT Auth, MongoDB, Docker)
-
----
-
-## 🌱 Current Learning Path
-- 🧠 **Advanced Deep Learning** (Transformers, GANs)
-- ☁️ **Cloud Deployment** (AWS, Docker)
-- 📊 **Data Storytelling** with Tableau & Power BI
-- ⚡ **Performance Optimization** in Django
+## 📈 Current Focus
+- 🕸 Mastering Django for full-stack applications
+- 🤖 Implementing transformer models
+- 🧠 Exploring NLP techniques
 
 ---
 
 ## 📬 Let's Collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b3hzadsh/)
 [![Email](https://img.shields.io/badge/Gmail-Send%20Message-%23D14836?style=for-the-badge&logo=gmail)](mailto:b3hzadsh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Code-%23181717?style=for-the-badge&logo=github)](https://github.com/b3hzadsh)
 
-💡 **Fun Fact**: I brew Turkish coffee ☕ while debugging neural networks! 
+
+☕ Fun Fact: I measure my coding progress in espresso shots!
 
 ---
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=b3hzadsh&show_icons=true&theme=radical">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3hzadsh&layout=compact&theme=radical">
+  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=b3hzadsh&show_icons=true&theme=radical">
 </div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=b3hzadsh&color=blueviolet&style=flat-square)
