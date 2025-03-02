@@ -37,21 +37,7 @@
 ## 📚 Academic Journey
 - **M.Sc. Data Science**  
   🏛 Farhang University | 📅 2023–Present  
-  ▪️ Focus: Neural Networks, Big Data Analytics  
-  ▪️ Thesis: *"Optimizing Healthcare Models Using Deep Learning"*
-
-- **B.Sc. Computer Engineering**  
-  🎓 Semnan University | 📅 2017–2022  
-  ▪️ GPA: 3.8/4.0 | Top 10% of Class  
-  ▪️ Final Project: [Hospital Management System](https://github.com/your-repo)
-
-
----
-
-## 📚 Academic Journey
-- **M.Sc. Data Science**  
-  🏛 Farhang University | 📅 2023–Present  
-  ▪️ Thesis: *Optimizing BERT Language Models Using Advanced Deep Learning Techniques*
+  ▪️ Thesis: *"Optimizing BERT Language Models Using Advanced Deep Learning Techniques"*
   ▪️ Focus: Natural language processing, Deep learning
 
 - **B.Sc. Computer Engineering**  
@@ -71,7 +57,6 @@
 ## 📬 Let's Collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b3hzadsh/)
 [![Email](https://img.shields.io/badge/Gmail-Send%20Message-%23D14836?style=for-the-badge&logo=gmail)](mailto:b3hzadsh@gmail.com)
-
 
 ☕ Fun Fact: I measure my coding progress in espresso shots!
 
