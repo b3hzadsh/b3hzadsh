@@ -37,8 +37,8 @@
 ## 📚 Academic Journey
 - **M.Sc. Data Science**  
   🏛 Farhang University | 📅 2023–Present  
-  ▪️ Focus: Natural language processing, Deep learning
   ▪️ Thesis: *Optimizing BERT Language Models Using Advanced Deep Learning Techniques*
+  ▪️ Focus: Natural language processing, Deep learning
 
 - **B.Sc. Computer Engineering**  
   🎓 Semnan University | 📅 2017–2022  
