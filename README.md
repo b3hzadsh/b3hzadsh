@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Behzad Shabanifar
 
-🚀 **Full-Stack Developer** | 📱 **Flutter Expert** | 🐍 **Python & AI Engineer** | 📊 **Data Science Scholar**
+📱 **Flutter Expert** | 🐍 **Python & AI Engineer** | 📊 **Data Science Scholar** | 🚀 **Django Enthusiast**  
 
 ---
 
@@ -37,7 +37,7 @@
 ## 📚 Academic Journey
 - **M.Sc. Data Science**  
   🏛 Farhang University | 📅 2023–Present  
-  ▪️ Focus: Neural Networks, Big Data Analytics  
+  ▪️ Focus: Neural Networks, NLP  
   ▪️ Thesis: *"Optimizing BERT Language Models Using Advanced Deep Learning Techniques"*
 
 - **B.Sc. Computer Engineering**  
@@ -65,5 +65,5 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=b3hzadsh&show_icons=true&theme=radical">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=b3hzadsh&show_icons=true&theme=radical">
 </div>
