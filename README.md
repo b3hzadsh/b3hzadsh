@@ -55,7 +55,8 @@
 ---
 
 ## 📬 Let's Collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b3hzadsh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b3hzadsh/)  
+
 [![Email](https://img.shields.io/badge/Gmail-Send%20Message-%23D14836?style=for-the-badge&logo=gmail)](mailto:b3hzadsh@gmail.com)
 
 
