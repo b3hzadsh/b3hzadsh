@@ -9,8 +9,8 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 📅 **My Journey**:
-- 🎓 Built multiple Flutter apps and published on **Cafe Bazar** during undergrad years 📲✨
-- 📚 Created university final project using Flutter (Graduation Cap emoji) 🎓
+- 🎓 Built multiple Flutter apps and published on [**Cafe Bazar**](https://cafebazaar.ir/developer/716260184115) during undergrad years 📲✨
+- 📚 Created university final project using Flutter 🎓
 - 🐍 Fell in love with Python after graduation 🐍❤️
 - 🎓 Currently pursuing **Data Science** degree while: 
   - � Building APIs with **FastAPI** 
@@ -45,9 +45,9 @@
 ---
 
 ## 🚀 Projects & Achievements
-- 📱 Published multiple apps on Cafe Bazar (Android App Store)
+- 📱 Published multiple apps on [Cafe Bazar](https://cafebazaar.ir/developer/716260184115) (Android App Store)
 - 🎓 University final project developed with Flutter
-- 🔭 Currently working on Gathering Dataset for train a custom model
+- 🔭 Currently working on collecting and preparing a dataset to train a custom machine learning model.
 - 🌱 Growing my Data Science Portfolio
 
 ---
