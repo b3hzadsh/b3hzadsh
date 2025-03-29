@@ -9,7 +9,7 @@
 - 🏆 Developed university final project using **Flutter & Firebase** 🎓
 - 🐍 Fell in love with Python after graduation 🐍❤️
 - 🎓 Currently pursuing **Data Science** degree while: 
-  - � Building APIs with **FastAPI** 
+  -  � Building APIs with **FastAPI** 
   - 🕸 Learning **Django** framework
   - 📈 Exploring machine learning models
 
